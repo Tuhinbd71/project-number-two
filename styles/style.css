@@ -9,7 +9,7 @@ body{
     height: 3306px;
     overflow-x: hidden;
     font-family: 'Poppins', sans-serif;
-    background-color: aquamarine;    
+    background-color: #fff;    
 }
 
 
@@ -166,4 +166,10 @@ li{
 }
 
 
+/* media querys */
 
+
+/* Mobile devices */
+@media screen {
+    
+}
